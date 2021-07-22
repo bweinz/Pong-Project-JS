@@ -61,9 +61,6 @@ function draw() {
   marcaPonto();
 }
 
-
-
-
 function mostraBolinha () {
   circle(xBolinha,yBolinha,diametro)
 }
@@ -87,18 +84,14 @@ function verificaColisaoBorda (){
       }
 }
 
-
 //Mostrar a raquete
  function mostraRaquete(x,y){
  rect(x,y,raqueteComprimento,raqueteAltura);}
 
-//Mostra raquete oponente
+//Mostra raquete oponente opcional:
 //function mostraRaqueteOponente(){
 //rect(xRaqueteOponente,yRaqueteOponente,raqueteComprimento,
 //raqueteAltura);}
-
-
-
 
 //movimentação da raquete:
 function movimentaMinhaRaquete(){
