@@ -1,4 +1,6 @@
+
 /*
+Parte do metodo de colisão da raquete baixado no repositorio do github, opção 2 da biblioteca!
 Repo: https://github.com/bmoren/p5.collide2D/
 Created by http://benmoren.com
 Some functions and code modified version from http://www.jeffreythompson.org/collision-detection
